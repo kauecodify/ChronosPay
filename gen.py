@@ -9,7 +9,7 @@ import numpy as np
 
 # ------------------------------------------------------------- #
 # Diretório de destino
-diretorio = r'---' # ADC SEU CAMINHO OW
+diretorio = r'---' # ADC SEU CAMINHO AQUI
 arquivo = 'historico_pagamentos.xlsx'
 caminho_completo = os.path.join(diretorio, arquivo)
 # ------------------------------------------------------------- #
