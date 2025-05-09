@@ -1,19 +1,21 @@
 # ChronosPay
 
----
-
-# Análise Preditiva de Pagamentos com Apache Spark - Spyder
+# ⌛  Análise Preditiva Inteligente de Fluxo de Pagamentos com Apache Spark - Spyder
 
 ---
 
----
 # 📌 Visão Geral
 
-O ChronosPay é uma solução orientada a dados para análise e previsão de tendências de pagamentos, utilizando: Apache Spark para processamento em larga escala
+O ChronosPay é uma solução orientada a dados para análise e previsão de tendências de pagamentos, utilizando:
+
+🔥 Apache Spark para processamento em larga escala
+
+📊 Visualização interativa com Plotly + Streamlit
+
+🔮 Previsões temporais com machine learning
 
 ---
 
----
 # 🔹 Principais Funcionalidades:
 
 ✅ Análise de histórico de pagamentos (XLSX/CSV)
@@ -23,9 +25,9 @@ O ChronosPay é uma solução orientada a dados para análise e previsão de ten
 ✅ Visualização interativa (Plotly + Streamlit)
 
 ✅ Relatórios automatizados
----
 
 ---
+
 # ⚙️ Configuração & Instalação
 
 1. Gerar Dados de Exemplo > gen.py (XLSX)
