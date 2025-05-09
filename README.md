@@ -1,6 +1,6 @@
 # ChronosPay
 
-# ⌛  Análise Preditiva Inteligente de Fluxo de Pagamentos com Apache Spark - Spyder
+# ⌛  Análise Preditiva Inteligente de Fluxo de Pagamentos com scikit-learn + pandas na ide Spyder
 
 ---
 
@@ -8,9 +8,9 @@
 
 O ChronosPay é uma solução orientada a dados para análise e previsão de tendências de pagamentos, utilizando:
 
-🔥 Apache Spark para processamento em larga escala
+🔥 scikit-learn + pandas para processamento em larga escala
 
-📊 Visualização interativa com Plotly + Streamlit
+📊 Visualização interativa
 
 🔮 Previsões temporais com machine learning
 
@@ -20,9 +20,7 @@ O ChronosPay é uma solução orientada a dados para análise e previsão de ten
 
 ✅ Análise de histórico de pagamentos (XLSX/CSV)
 
-✅ Previsão em série temporal (Spark ML)
-
-✅ Visualização interativa (Plotly + Streamlit)
+✅ Previsão em série temporal (scikit-learn + pandas + ML)
 
 ✅ Relatórios automatizados
 
