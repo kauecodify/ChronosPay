@@ -30,6 +30,8 @@ O ChronosPay é uma solução orientada a dados para análise e previsão de ten
 
 # ⚙️ Configuração & Instalação
 
+# rodar em cascata observando caminhos das pastas
+
 1. Gerar Dados de Exemplo > gen.py (XLSX)
 2. Analise preditiva > preditive.py
 
