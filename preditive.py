@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Faz a previsão com modelos de regressão linear,
-cria pipelines e faz o treinamento do modelo com datas futuras
+cria pipelines e faz o treinamento do modelo com
+base na interpretação de datas futuras
 """
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
