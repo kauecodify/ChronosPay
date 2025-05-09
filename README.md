@@ -32,5 +32,18 @@ O ChronosPay é uma solução orientada a dados para análise e previsão de ten
 
 1. Gerar Dados de Exemplo > gen.py (XLSX)
 2. Analise preditiva > preditive.py
+3. Métricas > dashboard.py
+
+---
+
+# 🖼 IMAGEM GERADA
+
+![dashboard_pagamentos](https://github.com/user-attachments/assets/576e2029-e06e-4165-9cb9-eec1d926df74)
+
+*OBS: DADOS FICTÍCIOS*
+---
+
+MIT LICENSE ®
+
 
 
